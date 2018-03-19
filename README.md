@@ -1,1 +1,2 @@
-# DORO_EPR2
+# DORO_EPR
+EPR system designed for efficiency
